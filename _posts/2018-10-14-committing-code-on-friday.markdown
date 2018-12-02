@@ -54,10 +54,11 @@ But this feels like a shameless advertisement for a simplistic shell script.
 
 This file is the culmination of a single exasperated status message of a fellow acquaintance and developer extrordinaire [xtreak]. Now you know who to blame wasting those few minutes of your life in reading through this :)
 
-As a closing note, I am currently experimenting on the newfound knowledge from a TED Talk/Youtube video of a bald gentleman playing a ukulele who posed the idea that to learn something new and mastering it takes around 20 hours and not the 10000 hours which is actually the time spent by the best of the best in the field towards attaining the pinnacle of the same. Tl;dr; There will be more such posts where I intend to try this theory out, convey my understanding and make the world a better place..
+As a closing note, I am currently experimenting on the newfound knowledge from a [video] of a bald gentleman playing a ukulele who posed the idea that to learn something new takes around 20 hours and not 10000 hours. The latter is actually the time spent by the best in the field towards attaining the pinnacle of the art or trade. Tl;dr; There will be more such posts where I intend to try this theory out, convey my understanding and make the world a better place..sorry!
 
 
 
 [Murphy's law]: https://en.wikipedia.org/wiki/Murphy's_law
 [friday-precommit hook]: https://github.com/optimusprime619/friday-pre-commit
 [xtreak]: https://tirkarthi.github.io/
+[video]: https://www.youtube.com/watch?v=EtJy69cEOtQ

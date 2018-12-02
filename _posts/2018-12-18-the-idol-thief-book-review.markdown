@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Book Review - The Idol Thief"
+date:   2018-10-14 18:40:00 +0530
+categories: bookreview
+---
+The **Idol Thief** by *[S Vijay Kumar](https://twitter.com/poetryinstone)* (ISBN No: 9789386228826) is a reflection of Indian history.
+
+A thriving cradle of culture and early civilization, richness beyond the world's comprehension. A fall from grace accomplished with contributions from rivalries, in-fightings, invaders and petty greed in general from entities within and outside.
+
+This book details the sequence of events that led to the capture of this infamous smuggler without any fanfare or exaggeration. Make no mistakes though, it is by no means a dull case report and is a page turner of its own right. It takes us from ground zero, the remote places in India like Tamil Nadu India from where the idols from temples are stolen through the intricately designed illegal smuggling routes crafting illustrating a clear picture of all the parties involved, to the other ends of the world namely Art galleries in Australia, Singapore, United States & UK. 
+
+It us for a ride down the proverbial rabbit hole and sheds light on part of the criminal underbelly of the idol theft ecosystem. While Subash Kapoor, his modus operandi and capture is the primary subject of the book the author manages to present a clear understanding of the arts market, the supply-demand system and the blatant disregard of potential buyers like art galleries and collectors for respecting the law, culture and sentiments of the places and people affected. For the uninitiated, Subash Kapoor is an infamous art smuggler who operated an art gallery named 'Art of the Past' and based on all associated thefts has caused billions worth of damage via art theft. The actual sacrilege caused to the culture and people on the other hand is immesurable and perhaps the damage irrevocable. 
+
+There is no snide remark or judgement against any party involved and the book examines thoroughly the lapses in law and the pitfalls that allow these smugglers to operate and the ignorance feigning attitude of renowned art galleries like AGNSW and auction houses like Christie's to keep up with the demand in the art world to take in smuggled artefacts. As an Indian, it feels excruciatingly painful about the way in which the gods (idols) are kidnapped from their places of worship to be shipped to foreign countries as mere well-preserved decorative toys to grab eyeballs and being mere objects of amusement of people.
+
+Despite the grim state of our country's current art theft protection people like the author, an art enthusiast with no connection to law enforcement working in the shipping industry by sacrificing his personal time with kindred spirits across the globe shine bright as beacons of hope. Likewise another noteworthy law enforcement officer referred to as *Indy* who was instrumental in going deep into the smuggling activity of Subash Kapoor and capturing billions worth of smuggled art and acknowledging the fact that these are simply not items with monetary tags but part of our culture and life and hold immesurable sentiment need to be applauded.
+
+The book's initial chapter is a fictional account of the events that would take place in the case of an imminent danger to a temple's idols and clearly describes that to the people who worship them they are more than idols and no price tag can be associated with them. Towards the end Vijay Kumar reterates the fact that art theft is a crime as grave as human trafficking in the sense that it deprives devotees of their beloved gods and people off their culture and heritage.
+
+It is pretty normal in India to meet people who glorify the colonial era by comparing them with current day polticians' corruption and would simply sweep away the unimaginable cruelties suffered at their hands. Likewise, you will find sympathisers of these art smuggling cases who will say that rather than being in ignored dilapidated temples they are better off as showcase dolls in foreign countries where they do not matter. If you are one such ignorance feigning sympathiser, **You are wrong**. What is truly for the best is that greedy smugglers and peddlers of art need to be kept in their rightful places. Let the gods decide where they should be, or more specifically let us decide where the prime artefacts of our culture should be and that is their rightful place in their abode surrounded by its people who worship them, pray to them and shower upon them their unconditional devotion.
+
+[#BringOurGodsHome](https://twitter.com/hashtag/BringOurGodsHome)
