@@ -1,0 +1,73 @@
+---
+layout: post
+title:  "Books - 2023"
+date:   2024-04-01 18:39:00 +0530
+categories: books summary
+---
+
+## Intro
+This was in my draft since December 2023. The best time to publish a blog post is the beginning of the year, the next best time is obviously the beginning of the financial year. 🫣
+
+For no particular reason, I decided to include a few quotes from some of the books that I read.
+
+### [Ponniyin Selvan (Books 1-4)](https://www.projectmadurai.org/pmworks.html){:target="_blank"}
+Kalki’s and perhaps one of recent Tamil literature's magnum opus. Sometimes you just know a timeless classic. It is an unshakeable feeling. The book felt special just as I started reading the first chapter, it does not take any effort to immediately join Vandiyathevan’s journey and get immersed in Kalki’s world. Time to finish the last part and devour the rest of Kalki's offerings.
+
+Project Madurai linked in the book title has both the tamil and english version pdfs. Lookup கல்கி கிருஷ்ணமூர்த்தி in the search or type the book name in english to get the translated version.
+
+### [The Manager’s Path](https://www.goodreads.com/en/book/show/33369254){:target="_blank"}
+This book has something for everyone across all levels of the corporate ladder. I wanted to understand what it 'really' takes to be a good manager and what makes a bad or mediocre manager. This book had some good insightful answers, lent clarity and was a satisfactory read. Some sections, not applicable to everyone while dragging the pace would be better skimmed through.
+
+> The worst micromanagers are those who constantly ask for information they could easily get themselves.
+
+> Feedback, positive or negative, should be a conversation.
+
+> Sometimes, in combining the roles of shield and mentor we end up in a parenting-style relationship with our team, and treat them like fragile children to be protected, nurtured, and chided as appropriate. You are not their parent. Your team is made up of adults who need to be treated with appropriate respect.
+
+### [Doorways to Light](https://www.goodreads.com/en/book/show/8929880){:target="_blank"}
+Took this up based on a friend's positive review. Decided not to approach the spiritual, metaphysical realm of devotion in the form of literature for some time. Perhaps it is not yet my time or it simply wasn't meant to be.
+
+### [Witcher: Time of contempt](https://www.goodreads.com/book/show/14781491-the-time-of-contempt){:target="_blank"}
+Classic witcher stuff.
+
+### [What I talk about When I talk about running](https://www.goodreads.com/book/show/2195464.What_I_Talk_About_When_I_Talk_About_Running){:target="_blank"}
+Writer Haruki Murakami's notes on running. I haven't ready any of Murakami's works before but decided to read this, as I wanted to take up running myself. His observations on the effects of running and the tribe of runners, marathoners and ultramarathoners makes for nice and simple reading.
+
+If you had (fortunately) missed reading my ramble on the subject, the link is [here]({{ site.baseurl }}{% link _posts/2024-01-02-running-log.markdown %}){:target="_blank"}
+
+### [The psychology of money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money){:target="_blank"}
+Short and simple book with a title that clearly states what the book is about. An examination of why we do certain things the way we do with managing personal finance. In the author's own words this book is an expansion of a blog post he wrote that gained traction, resulting in him elaborating his points without needless hyperbole. No preaching of making you rich or promises of making better returns, it was well worth reading.
+
+> The premise of this book is that doing well with money has a little to do with how smart you are and a lot to do with how you behave. And behavior is hard to teach, even to really smart people.
+
+> But doing something you love on a schedule you can’t control can feel the same as doing something you hate.
+There is a name for this feeling. Psychologists call it reactance.
+
+### [The pragmatic programmer](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer){:target="_blank"}
+A brilliant technical book with good depth and clarity. Has something for everyone at all echelons of programming. Pieces that really resonated with me based on past and current experiences were sections on prototyping and tracer bullets.
+
+> Even though your title might be some variation of “Software Developer” or “Software Engineer,” in truth it should be “Problem Solver.”
+That’s what we do, and that’s the essence of a Pragmatic Programmer.
+
+### [The Dhoni touch](https://www.goodreads.com/book/show/40766409-the-dhoni-touch){:target="_blank"}
+Written by Bharat Sundaresan in his own inimitable style, this is an account of M S Dhoni as narrated by his inner circle of childhood friends as well as peers. Hardcore fans of MSD might truly savour the book but it's otherwise a mellow read about the emergence and establishment of the phenomenon that is Dhoni.
+
+### [The Silent Patient](https://www.goodreads.com/book/show/40097951-the-silent-patient){:target="_blank"}
+Haven't been a fan of mystery and thriller genres. This book, while good, does not affect my status quo. Don’t let me be a downer, give it a try if you like mystery.
+
+### [The Squat Bible](https://www.goodreads.com/book/show/34853155-the-squat-bible){:target="_blank"}
+I started reading this book after watching a few Squat University videos on hip and knee exercises for injury prevention. Dr.Horschig does a splendid job of explaining injuries in a cause and effect format based on body biomechanics for the average person to understand and follow in both the video and book format. While primarily intended for weightlifters, powerlifters and their ilk, the test-retest strategy and the workouts mentioned have something for everyone. The book preface has one of the most metal quotes by Socrates.
+
+> The ancient Greek philosopher Socrates once wrote, “No man has the right to be an amateur in the matter of physical training. It is a shame for a man to go through life without finding the true strength he is capable of.”
+
+The book makes for a good assistance to his YouTube channel Squat University.
+
+### [John Wright’s Indian Summers](https://www.goodreads.com/book/show/5253844-john-wright-s-indian-summers){:target="_blank"}
+John Wright's experiences as the coach of Indian Men’s cricket team. Begins with the end of his career as a player, brief failed experience as a salaried person outside the cricketing world and inevitable return to the field as a coach in English county and international cricket. Wright brings a beautiful perspective of the Indian cricket landscape as an outsider. While he does not air out dirty laundry or gossip, the book still has a few gems and anecdotes.
+
+There's also inevitably a glimpse of the shitshow that used to be and still is BCCI. He pours his heart out on coaching and the relationship dynamics that come with it. Having to witness heartbreaks dealing with members who give their 100% yet fall short on one hand. Witnessing consistent performers like VVS Laxman and Mohd. Kaif being made scapegoats on the other. The state of Indian cricketers’ fitness when he took over the coaching regime and its evolution with the emergence of young blood challenging the old guard is hilarious and insightful. Worth reading and reminiscing for folks who love reliving the nostalgia of the big 5’s and the Indian cricket team's emergence.
+
+### [Anatomy for Runners](https://www.goodreads.com/book/show/13645495-anatomy-for-runners){:target="_blank"}
+Jay Dicharry, a physical therapist and biomechanist lays down the building blocks of the intricacies involved in running. This book was by no means a page turner and if not an acute interest in running, I suspect I would have never picked it up let alone complete it. That said, the book is well structured with a clearly defined cause and effect style narration of biomechanics. The book includes many important discussions such as the effects of stretching before running, how much of a role is actually played by running shoes etc.,
+
+***
